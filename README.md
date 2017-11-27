@@ -9,4 +9,4 @@ We go over how to set up a standard AngularJS app, typical component structure, 
 - ng-change
 
 you can find the video here:
-(AngularJS Breakout)[https://youtu.be/xas71K-1AXI]
+[AngularJS Breakout](https://youtu.be/xas71K-1AXI)
